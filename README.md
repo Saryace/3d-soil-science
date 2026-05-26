@@ -11,7 +11,7 @@ Using PLA for a more environmental friendly use
 
 ## Soil sieve 2 mm 
 
-![3d-sieve](3d-sieve.jpeg){width=120}
+![3d-sieve](3d-sieve.jpeg)
 
 [gcodefile here](https://github.com/Saryace/3d-soil-science/blob/main/Sifter_c2_0.4n_0.15mm_PLA_MINIIS_3h45m-por-dos.bgcode) [thingiverse link stl](https://www.thingiverse.com/thing:7276910)
 
