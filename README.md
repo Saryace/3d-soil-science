@@ -7,9 +7,12 @@ I am starting to use the MakerSpace Bibliotecas UC San Joaquín for improving my
 
 Using PLA for a more environmental friendly use
 
-## Teaching
+# Teaching
 
-# Soil sieve 2 mm 
+## Soil sieve 2 mm 
 
+[] foto
+
+[gcodefile here](https://github.com/Saryace/3d-soil-science/blob/main/Sifter_c2_0.4n_0.15mm_PLA_MINIIS_3h45m-por-dos.bgcode) [thingiverse link stl](https://www.thingiverse.com/thing:7276910)
 
 
